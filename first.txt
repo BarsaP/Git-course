@@ -2,3 +2,5 @@ This is my initial file
 Next commit the first program
 Going to add the other information as well
 this is changes now
+
+Go to the next setting and apply all the details
